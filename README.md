@@ -22,11 +22,11 @@ The **Java Alarm Clock** is a console-based alarm clock application built using 
 ### Installation & Running the Application
 1. **Clone the repository**
    ```bash
-  https://github.com/anunayanand/Alarm_Clock.git
+   git clone https://github.com/anunayanand/Alarm_Clock.git
    ```
 2. **Navigate to the project folder**
    ```bash
-   cd java-alarm-clock
+   cd Alarm_Clock
    ```
 3. **Compile the Java files**
    ```bash
