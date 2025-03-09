@@ -22,7 +22,7 @@ The **Java Alarm Clock** is a console-based alarm clock application built using 
 ### Installation & Running the Application
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/java-alarm-clock.git
+  https://github.com/anunayanand/Alarm_Clock.git
    ```
 2. **Navigate to the project folder**
    ```bash
